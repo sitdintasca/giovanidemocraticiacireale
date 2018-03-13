@@ -1485,6 +1485,34 @@ body {
     padding-left: 30px;
   }
 }
+.cid-qManBkWUE5 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cebfaf;
+}
+.cid-qManBkWUE5 [class^="socicon-"]:before,
+.cid-qManBkWUE5 [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qManBkWUE5 .btn-social {
+  border-color: #82786e;
+}
+.cid-qManBkWUE5 .btn-social:hover {
+  background: #82786e;
+}
+.cid-qManBkWUE5 .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qManBkWUE5 .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qMao24UE8G {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-qMacRG4oq1 .navbar {
   background: #cebfaf;
   transition: none;
