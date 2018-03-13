@@ -97,7 +97,7 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "postToLoad": 3,
+            "postToLoad": "6",
             "facebook": "gdacireale",
             "twitter": "gdnazionale",
             "google": "",
